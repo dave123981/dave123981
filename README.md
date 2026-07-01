@@ -1,4 +1,4 @@
-# Hi, I'm David King
+# Hi, I'm David King 👋
 
 ### Machine Learning Engineer • AI Engineer • Data Scientist
 
@@ -10,26 +10,26 @@ This GitHub is my learning journal, engineering portfolio, and playground where 
 
 ---
 
-##  What I'm Working On
+## 🚀 What I'm Working On
 
 I'm building end-to-end Artificial Intelligence and Machine Learning projects that cover the complete lifecycle of modern AI systems.
 
 Current areas of focus include:
 
--  Machine Learning
--  Deep Learning
--  Computer Vision
--  Natural Language Processing (NLP)
--  Large Language Models (LLMs)
--  Retrieval-Augmented Generation (RAG)
--  MLOps & Model Deployment
--  Python for AI Engineering
--  Data Engineering for Machine Learning
--  AI Research Reproductions
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- 📚 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚙️ MLOps & Model Deployment
+- 🐍 Python for AI Engineering
+- 📊 Data Engineering for Machine Learning
+- 📖 AI Research Reproductions
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -41,8 +41,6 @@ Current areas of focus include:
 - Scikit-learn
 - TensorFlow
 - PyTorch
-- XGBoost
-- LightGBM
 
 ### Data Science
 
@@ -54,8 +52,6 @@ Current areas of focus include:
 
 ### AI Tools
 
-- Hugging Face
-- LangChain
 - OpenAI API
 - Vector Databases
 - FAISS
@@ -63,7 +59,7 @@ Current areas of focus include:
 
 ---
 
-##  Current Learning Journey
+## 🌱 Current Learning Journey
 
 I'm continuously exploring topics such as:
 
@@ -82,7 +78,7 @@ I'm continuously exploring topics such as:
 
 ---
 
-##  Open Source Goals
+## 🌍 Open Source Goals
 
 I'm actively working toward:
 
@@ -94,7 +90,7 @@ I'm actively working toward:
 
 ---
 
-##  Goals
+## 🎯 Goals
 
 - Build a portfolio of production-grade AI projects
 - Contribute consistently to AI open-source projects
@@ -105,7 +101,7 @@ I'm actively working toward:
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
 I'm always excited to connect with people who are passionate about:
 
@@ -118,4 +114,5 @@ I'm always excited to connect with people who are passionate about:
 - Large Language Models
 - AI Infrastructure
 - Open Source
+
 
